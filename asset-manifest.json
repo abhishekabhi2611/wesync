@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wesync/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/wesync/static/js/main.742b6f68.chunk.js",
+    "main.js.map": "/wesync/static/js/main.742b6f68.chunk.js.map",
+    "runtime-main.js": "/wesync/static/js/runtime-main.96e33bbf.js",
+    "runtime-main.js.map": "/wesync/static/js/runtime-main.96e33bbf.js.map",
+    "static/js/2.98efe1a6.chunk.js": "/wesync/static/js/2.98efe1a6.chunk.js",
+    "static/js/2.98efe1a6.chunk.js.map": "/wesync/static/js/2.98efe1a6.chunk.js.map",
+    "static/js/3.b1d98590.chunk.js": "/wesync/static/js/3.b1d98590.chunk.js",
+    "static/js/3.b1d98590.chunk.js.map": "/wesync/static/js/3.b1d98590.chunk.js.map",
+    "index.html": "/wesync/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/wesync/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.98efe1a6.chunk.js.LICENSE.txt": "/wesync/static/js/2.98efe1a6.chunk.js.LICENSE.txt",
+    "static/media/wesync.50bb9aa7.png": "/wesync/static/media/wesync.50bb9aa7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96e33bbf.js",
+    "static/js/2.98efe1a6.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.742b6f68.chunk.js"
+  ]
+}
